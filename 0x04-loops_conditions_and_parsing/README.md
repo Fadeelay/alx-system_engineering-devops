@@ -1,1 +1,1 @@
-Loops,conditions amd parsing
+Loops And Conditions
