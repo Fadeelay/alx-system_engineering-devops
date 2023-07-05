@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script that display the pid and the file name
+pgrep -l "bash"
